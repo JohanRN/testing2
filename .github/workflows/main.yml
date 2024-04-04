@@ -11,4 +11,4 @@ on:
 
 jobs:
   github-actions-input-demo:
-    uses: amulyakashyap09/resuable-workflows/.github/workflows/manual-trigger-job.yml@main
+    uses: JohanRN/testing2/.github/workflows/main.yml@main
