@@ -11,4 +11,4 @@ on:
 
 jobs:
   github-actions-input-demo:
-    uses: JohanRN/testing2/.github/workflows/main.yml@main
+    uses: JohanRN/testing_1/.github/workflows/main.yml@main
